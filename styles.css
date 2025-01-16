@@ -1,7 +1,40 @@
-body {
-    background-color: #66bbc5;
-    color: #1a1919;
+body{
+    background-color: rgb(41, 39, 39);
+
 }
-h1{
-    color: #331152;
+
+.container{
+    color: rgb(255, 255, 255);
+
+}
+
+.box{
+    width: 300px;
+    height: 100px;
+    border: 6cm;
+    background-color: rgb(89, 61, 61);
+
+}
+
+.inline{
+    display:inline;
+    color: rgb(255, 255, 255);
+}
+
+.inline-block{
+    display: inline-block;
+    width: 300px;
+    height: 100px;
+    border: 6cm;
+    background-color: rgb(205, 114, 114);
+
+}
+
+.flex{
+    width: 300px;
+    height: 30px;
+    background-color: aquamarine;
+    display: flex;
+    
+
 }
